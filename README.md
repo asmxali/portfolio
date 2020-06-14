@@ -1,6 +1,6 @@
 # Portfolio
 
-My personal portfolio that showcases projects and my journey as a developer.
+My personal portfolio that showcases projects and my journey as a developer: https://asmxali.github.io/portfolio/
 
 ## Credits
 
